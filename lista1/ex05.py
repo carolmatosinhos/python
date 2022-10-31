@@ -1,0 +1,12 @@
+numero = int(input('\033[0;34mDigite um número: \033[m\n'))
+
+print(f'\033[0;34m{numero} * 1 = {numero *1}\033[m')
+print(f'\033[0;34m{numero} * 2 = {numero *2}\033[m')
+print(f'\033[0;34m{numero} * 3 = {numero *3}\033[m')
+print(f'\033[0;34m{numero} * 4 = {numero *4}\033[m')
+print(f'\033[0;34m{numero} * 5 = {numero *5}\033[m')
+print(f'\033[0;34m{numero} * 6 = {numero *6}\033[m')
+print(f'\033[0;34m{numero} * 7 = {numero *7}\033[m')
+print(f'\033[0;34m{numero} * 8 = {numero *8}\033[m')
+print(f'\033[0;34m{numero} * 9 = {numero *9}\033[m')
+print(f'\033[0;34m{numero} * 10 = {numero *10}\033[m')
