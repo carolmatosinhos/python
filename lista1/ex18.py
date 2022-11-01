@@ -1,0 +1,5 @@
+nome = input('\033[0;34mDigite seu nome completo:\033[m')
+print(f'\033[0;34mO seu nome em maiúsculas é:{nome.upper()}\033[m')
+print(f'\033[0;34mO seu nome em minúsculas é: {nome.lower()}\033[m')
+print(f'\033[0;34mO seu nome tem {len(nome.replace(" ", ""))} letras\033[m')
+print(f'\033[0;34mO seu primeiro nome tem {len(nome.split()[0])} letras\033[m')
